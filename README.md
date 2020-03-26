@@ -1,0 +1,2 @@
+# nCOV_gstore_client
+gstore新冠知识图谱的python访问测试
